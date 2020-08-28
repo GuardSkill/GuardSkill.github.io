@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "SiChuan China"
-title                    : "李思源"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "李思源"
 description              : &description "Personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "李思源 | Siyuan Li"
+  avatar           : "lsy.jpg"
+  bio              : "Master student of Southwest University of Science and Technology, expected to graduate in 2021"
+  location         : "SiChuan China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "qq497291093@gmail.com | 497291093@qq.com"
+  researchgate     :  "https://www.researchgate.net/profile/Siyuan_Li41"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/GuardSkill"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/%E6%80%9D%E6%BA%90-%E6%9D%8E-903086148/"
+  orcid            : "https://orcid.org/0000-0002-2354-4233"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
