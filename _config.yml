@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "李思源 | Siyuan Li"
   avatar           : "lsy.jpg"
-  bio              : "Master student of Southwest University of Science and Technology, expected to graduate in 2021"
+  bio              : "Master student of Southwest University of Science and Technology, expected to graduate in 2021."
   location         : "SiChuan China"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%80%9D%E6%BA%90-%E6%9D%8E-903086148/"
+  linkedin         : "%E6%80%9D%E6%BA%90-%E6%9D%8E-903086148/"
   orcid            : "https://orcid.org/0000-0002-2354-4233"
   pinterest        :
   soundcloud       :
