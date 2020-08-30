@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Chinese CV](http://GuardSkill.github.io/files/Resume.pdf)   | [中文简历](http://GuardSkill.github.io/files/ICONIP2019.pdf)  
+[Chinese CV](http://GuardSkill.github.io/files/Resume.pdf)   | [中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
+  
 Education
 ======
 * B.S. Chengdu University, 2018           Major: Network Engineering
