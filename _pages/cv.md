@@ -8,52 +8,29 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Chinese CV](http://GuardSkill.github.io/files/Resume.pdf)   | [中文简历](http://GuardSkill.github.io/files/ICONIP2019.pdf)  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Chengdu University, 2018           Major: Network Engineering
+* M.S. Southwest University of Science and Technology, 2021 (expected)  Major: Software Engineering
+<!-- * Ph.D None -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Software Development Internship
+  * JHInno    
+  * Duties included: Responsible for the development of various low-level functions of the desktop remote assistance application, including the display of GPU and CPU occupancy, the program is limited to run on one or several CPU/GPU, boot-up, hook dll program and other small program functions (C/C++ ), and C# interface design, using Window C++/C# mixed programming and Redis message communication to develop independent small projects.
+  <!-- * Supervisor: Ji Luo -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The advancement award of National University Student Intelligent Interconnection (undergraduate)
+* The runner-up in the image inpainting grand challenge held by ICME 2019 (CCF recommended B international conference) (postgraduate)
+* School-level Second Scholarship (undergraduate), Third Academic Scholarship (postgraduate), National Scholarship (postgraduate)
 
-Publications
+Certificate
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CET-6
+* Computer secondary certificate.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
