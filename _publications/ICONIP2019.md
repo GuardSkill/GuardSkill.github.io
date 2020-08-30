@@ -2,7 +2,7 @@
 title: "Inpainting with Sketch Reconstruction and Comprehensive Feature Selection"
 collection: publications
 permalink: /publication/ICONIP2019
-excerpt: 'This paper is about image inpainting.  (CCF C conference paper)'
+excerpt: 'Image inpainting. (CCF C conference paper).'
 date: 2019-12-12
 venue: 'ICONIP2019(Novotel Sydney Manly Pacific, Sydney, Australia)'
 paperurl: 'https://doi.org/10.1007/978-3-030-36802-9_8'
