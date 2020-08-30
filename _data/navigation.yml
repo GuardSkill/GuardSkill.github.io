@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Achievements | 成果"
     url: /publications/
       
-  - title: "CV|简历"
+  - title: "CV | 简历"
     url: /cv/
     
 
