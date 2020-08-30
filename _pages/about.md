@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-Title1
-======
-dasd
+Introduction....
 
 Getting started
 ======
