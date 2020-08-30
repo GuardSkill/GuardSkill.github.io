@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Summer 2017: Software Development Internship
-  * JHInno    
+  * JHInno (Chengdu)   
   * Duties included: Responsible for the development of various low-level functions of the desktop remote assistance application, including the display of GPU and CPU occupancy, the program is limited to run on one or several CPU/GPU, boot-up, hook dll program and other small program functions (C/C++ ), and C# interface design, using Window C++/C# mixed programming and Redis message communication to develop independent small projects.
   <!-- * Supervisor: Ji Luo -->
 
