@@ -2,7 +2,7 @@
 title: "LPI-Net: Lightweight Inpainting Network with Pyramidal Hierarchy"
 collection: publications
 permalink: /publication/Li_ICONIP2020
-excerpt: 'First author, Image inpainting paper in CCF C conference paper.'
+excerpt: 'This paper is accepted by ICONIP2020. First author.'
 date: 2020-12-12
 venue: 'ICONIP2020'
 ---
