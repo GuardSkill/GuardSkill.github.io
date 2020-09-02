@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Chinese CV](http://GuardSkill.github.io/files/Resume.pdf) | [中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
+Chinese CV | [中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
   
 Education
 ======
@@ -17,7 +17,7 @@ Education
 * M.S. Southwest University of Science and Technology, 2021 (expected)  Major: Software Engineering
 <!-- * Ph.D None -->
 
-Work experience
+Internship experience
 ======
 * Summer 2017: Software Development Internship
   * JHInno (Chengdu)   
@@ -29,10 +29,18 @@ Award
 ======
 * The advancement award of National University Student Intelligent Interconnection (undergraduate)
 * The runner-up in the image inpainting grand challenge held by ICME 2019 (CCF recommended B international conference) (postgraduate)
-* School-level Second Scholarship (undergraduate), Third Academic Scholarship (postgraduate), National Scholarship (postgraduate)
+* School-level Second Scholarship (undergraduate)
+* Third Academic Scholarship (postgraduate, 2018)
+* National Scholarship (postgraduate, 2019)
 
-Certificate
+Projects
+======
+* 2019~2020.3:   
+Hosted and complete the school-level graduate student innovation fund "Research on Deep Learning-based Image Inpainting Algorithms" (No.19ycx0050)
+* 2020.4~Now:  
+Holding the the school-level graduate student innovation fund "Feature Separation in Cross-domain Tasks".
+
 ======
 * CET-6
-* Computer secondary certificate.
+* Secondary-level Computer Certificate.
   

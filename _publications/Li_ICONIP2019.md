@@ -6,7 +6,7 @@ excerpt: 'First author, Image inpainting paper in CCF C conference paper.'
 date: 2019-12-12
 venue: 'ICONIP2019(Novotel Sydney Manly Pacific, Sydney, Australia)'
 paperurl: 'https://doi.org/10.1007/978-3-030-36802-9_8'
-citation: 'Li, Siyuan, et al. "Inpainting with Sketch Reconstruction and Comprehensive Feature Selection." International Conference on Neural Information Processing. Springer, Cham, 2019.'
+citation: 'Li, Siyuan, et al. "Inpainting with Sketch Reconstruction and Comprehensive Feature Selection." <i>International Conference on Neural Information Processing</i>. Springer, Cham, 2019.'
 ---
 First author, Image inpainting paper in CCF C conference paper.
 Introduction:  
