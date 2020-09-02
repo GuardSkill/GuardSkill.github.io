@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}  
 
-Chinese CV | [中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
+[Chinese CV | 中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
   
 Education
 ======
@@ -40,6 +40,7 @@ Hosted and complete the school-level graduate student innovation fund "Research 
 * 2020.4~Now:  
 Holding the the school-level graduate student innovation fund "Feature Separation in Cross-domain Tasks".
 
+Certification
 ======
 * CET-6
 * Secondary-level Computer Certificate.
