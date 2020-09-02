@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-[Chinese CV | 中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
+[Chinese CV / 中文简历](http://GuardSkill.github.io/files/Resume.pdf)  
   
 Education
 ======
