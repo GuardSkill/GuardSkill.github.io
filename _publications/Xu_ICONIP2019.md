@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Xu_ICONIP2019
 excerpt: 'Co-author, CCF C conference paper for image segmentation.'
 date: 2019-12-12
-venue: 'ICONIP2019(Novotel Sydney Manly Pacific, Sydney, Australia)'
+venue: 'International Conference on Neural Information Processing (Novotel Sydney Manly Pacific, Sydney, Australia)'
 paperurl: 'https://doi.org/10.1007/978-3-030-36802-9_5'
 citation: 'Xu, Kepeng, et al. "IRSNET: An Inception-Resnet Feature Reconstruction Model for Building Segmentation." International Conference on Neural Information Processing. Springer, Cham, 2019.'
 ---
