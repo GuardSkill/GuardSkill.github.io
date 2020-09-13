@@ -5,5 +5,7 @@ main:
       
   - title: "CV | 简历"
     url: /cv/
-    
+
+    - title: "Certification | 证书"
+    url: /portfolio/
 
