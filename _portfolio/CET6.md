@@ -1,6 +1,6 @@
 ---
 title: "CET-6 / 全国大学生六级考试"
-excerpt: "CET-6 Certification "
+excerpt: "CET-6 Certification"
 collection: portfolio
 ---
 
