@@ -4,4 +4,4 @@ excerpt: "Second Undergraduate Student Scholarship."
 collection: portfolio
 ---
 
-Second Undergraduate Student Scholarship. <br/><img src='/images/scholarship_undergraduate.jpg'>
+Second Undergraduate Student Scholarship. <br/><img src='/images/scholarship_undergraduate.png'>
