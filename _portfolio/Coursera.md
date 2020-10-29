@@ -1,5 +1,5 @@
 ---
-title: "Coursera Course Certifications \| Coursera 课程证书"
+title: "Coursera Course Certifications \ Coursera 课程证书"
 excerpt: "Coursera Course Certification. e.g. <br/><img src='/images/coursera_ML.png'>"
 collection: portfolio
 ---
