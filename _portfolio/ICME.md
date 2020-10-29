@@ -1,5 +1,5 @@
 ---
-title: "ICME 2019 Grand Challenge \ ICME 2019 国际会议挑战赛"
+title: "ICME 2019 Grand Challenge / ICME 2019 国际会议挑战赛"
 excerpt: "Runner-up Award, <br/><img src='/images/competition_ICME.png'>"
 collection: portfolio
 ---
