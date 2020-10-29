@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Student Scholarship / 本科奖学金"
+title: "Undergraduate Student Scholarship \| 2016年本科奖学金"
 excerpt: "Second Undergraduate Student Scholarship."
 collection: portfolio
 ---
