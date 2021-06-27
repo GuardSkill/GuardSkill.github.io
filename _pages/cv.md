@@ -53,15 +53,19 @@ Projects
 ======
 * 2019.5~2020.5:   
 Hosted and complete the school-level graduate student innovation fund "Research on Deep Learning-based Image Inpainting Algorithms" (No.19ycx0050)
-* 2020.4~Now:  
+* 2020.4~2021.4:  
 Holding the the school-level graduate student innovation fund "Feature Separation in Cross-domain Tasks".
+* 2021.6~2022.6: Image Inpainting technology based on deep learning and multi-scale fusion (No.2021019)  
+Project goal: To study how to use techniques such as multi-scale feature representation to improve the inpainting performance of the image inpainting model. Scale: Sichuan Science and Technology Innovation Seedling Project Funding Project (provincial-level project) Responsibilities: Serving as the project leader and project lead researcher, responsible for the optimization and implementation of image restoration algorithms, and the assignment of personnel. Completion status: The project has been approved.
 
 项目
 ======
 * 2019.5~2020.5:  基于深度学习的图片修复算法研究 (No.19ycx0050)
 项目目标:研究能提升图像修复（inpainting）的修复性能的技术方案。规模：校级研究生创新基金  职责：担任项目主持人和项目主研人员，负责图像修复的算法的优化和实现，以及人员的工作分配。完成情况：已结题，主持人及其成员共发表三篇CCF推荐论文。
-* 2020.4~Now:  跨域任务中的特征分离 (No.20ycx0002)
-项目目标:拟提出一种监督学习算法，在目前的先进的跨域数据集上达到较好的分类精度。规模：校级研究生创新基金  职责：担任项目主持人和项目主研人员，负责特定算法的提出和优化，以及人员的工作分配。完成情况：已立项。
+* 2020.4~2021.4:  跨域任务中的特征分离 (No.20ycx0002)
+项目目标:拟提出一种监督学习算法，在目前的先进的跨域数据集上达到较好的分类精度。规模：校级研究生创新基金  职责：担任项目主持人和项目主研人员，负责特定算法的提出和优化，以及人员的工作分配。完成情况：已结项。
+* 2021.6~2022.6:  基于深度学习和多尺度融合的图像修复技术 （No.2021019）
+项目目标:研究如何利用多尺度特征表示等技术来提高图像修复模型的修复性能。规模：四川省科技创新苗子工程资助项目（省级项目）  职责：担任项目主持人和项目主研人员，负责图像修复的算法的优化和实现，以及人员的工作分配。完成情况：已立项。
 
 Certification
 ======
